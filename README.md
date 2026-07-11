@@ -1,24 +1,25 @@
-<h3 align="center">
-🚀 AI & Machine Learning Student | Java Developer | Aspiring Software Engineer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0366d6&center=true&vCenter=true&width=750&lines=Hey+I'm+Padyala+Sowmya;AI+%26+Machine+Learning+Student;Java+Developer+%7C+Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Passionate about building intelligent applications using AI, Machine Learning, and Full-Stack Development. I enjoy solving real-world problems through code, exploring data-driven solutions, and continuously learning new technologies.
 </p>
 
-<br>
+
+
+---
 
 ## 👨‍🎓 About Me
-🎓 B.Tech CSE (AI & ML) Student <br>
-🤖 Passionate about Artificial Intelligence, Machine Learning & Software Development <br>
-🚀 Building projects that combine AI with practical applications <br>
-🌱 Always learning, coding, and growing
-💡 Exploring AI/ML projects and building real-world solutions
-📍 Based in **Hyderabad, India**
-📫 Reach me at **sowmya8566@gmail.com**
 
+- 🎓 **B.Tech CSE (AI & ML) Student**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Software Development**
+- 🚀 Building projects that combine **AI with practical applications**
+- 🌱 Always learning, coding, and growing
+- 💡 Exploring **AI/ML projects and building real-world solutions**
+- 📫 Reach me at: **sowmya8566@gmail.com**
 
-<br>
+---
 
 ## 🛠️ Tech Stack
 <p align="center">
