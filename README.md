@@ -1,17 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Padyala+Sowmya;Student+%7C+Java+Developer+%7C+AIML+Enthusiast;Welcome+to+my+GitHub+Profile!&center=true&width=600&height=50" />
-</h1>
+<h3 align="center">
+🚀 AI & Machine Learning Student | Java Developer | Aspiring Software Engineer
+</h3>
 
-<h3 align="center">Student learning Java, Web Dev & AIML from Hyderabad, India 🇮🇳</h3>
+<p align="center">
+Passionate about building intelligent applications using AI, Machine Learning, and Full-Stack Development. I enjoy solving real-world problems through code, exploring data-driven solutions, and continuously learning new technologies.
+</p>
 
 <br>
 
 ## 👨‍🎓 About Me
-- 🌱 I’m currently learning **Java, HTML, CSS, and AIML**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Web Development**
-- 💡 Exploring AI/ML projects and building real-world solutions
-- 📍 Based in **Hyderabad, India**
-- 📫 Reach me at **sowmya8566@gmail.com**
+🎓 B.Tech CSE (AI & ML) Student <br>
+🤖 Passionate about Artificial Intelligence, Machine Learning & Software Development <br>
+🚀 Building projects that combine AI with practical applications <br>
+🌱 Always learning, coding, and growing
+💡 Exploring AI/ML projects and building real-world solutions
+📍 Based in **Hyderabad, India**
+📫 Reach me at **sowmya8566@gmail.com**
+
 
 <br>
 
